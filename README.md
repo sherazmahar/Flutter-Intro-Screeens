@@ -1,6 +1,6 @@
 # flutter_introscreens
 
-A new Flutter project.
+Introduction screen allow you to have a screen at launcher for example, where you can explain your app. This Widget is customizable (more in the future) with a great design.
 
 ## Getting Started
 
